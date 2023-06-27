@@ -1,3 +1,4 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://github.com/Vignesh-R-G)
 <h1 align="center">Hi 👋, I'm VIGNESH R G</h1>
 <h3 align="center">Ready to contribute my skills,enthusiasm, and fresh perspective to a dynamic organization</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh-r-g" alt="vignesh-r-g" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate with **Everyone**
 
