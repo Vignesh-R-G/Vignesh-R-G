@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VIGNESH R G</h1>
+<h1 align="center" style="color:blue">Hi 👋, I'm VIGNESH R G</h1>
 <h3 align="center">Ready to contribute my skills,enthusiasm, and fresh perspective to a dynamic organization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-r-g&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-r-g" /> </p>
