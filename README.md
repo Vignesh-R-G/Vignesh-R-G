@@ -1,11 +1,10 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://github.com/Vignesh-R-G)
 <h1 align="center">Hi 👋, I'm VIGNESH R G</h1>
 <h3 align="center">Ready to contribute my skills,enthusiasm, and fresh perspective to a dynamic organization</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-r-g&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-r-g" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh-r-g" alt="vignesh-r-g" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate with **Everyone**
@@ -33,4 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-r-g&show_icons=true&locale=en" alt="vignesh-r-g" /></p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/vigneshramamoorthi1)](https://leetcode.com/vigneshramamoorthi1)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-r-g&" alt="vignesh-r-g" /></p>
