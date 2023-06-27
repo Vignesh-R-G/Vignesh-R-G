@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh-r-g" alt="vignesh-r-g" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning Springboot and Hibernate
 
 - 👯 I’m looking to collaborate with **Everyone**
 
